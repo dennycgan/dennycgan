@@ -2,7 +2,7 @@
 
 Full-stack software engineer based in New Zealand.
 
-I mainly build full-stack products with TypeScript/React and Python/FastAPI, on PostgreSQL and AWS, and I've shipped an iOS app in Flutter and Swift. Before software, I spent six years in international retail and product operations.
+I build full-stack products mainly with TypeScript/React, Node.js and Python/FastAPI, on PostgreSQL and AWS, and I’ve shipped an iOS app in Flutter and Swift. Before software, I spent six years in international retail and product operations.
 
 I focus on the business processes a system supports, not just the system itself, and I ask what a system is for before designing how it works.
 
